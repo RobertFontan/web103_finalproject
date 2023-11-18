@@ -77,20 +77,25 @@ Complete the checklist below detailing each baseline, custom, and stretch featur
 
 ### 1. What went well during this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+Rob - A lot of the backend and frontend was fleshed out in the previous unit, so its nice seeing our project come together.
 
 ### 2. What were some challenges your group faced in this unit?
 
 [👉🏾👉🏾👉🏾 your answer here]
+Rob - No challenges.
 
 ### 3. What were some of the highlights or achievements that you are most proud of in this project?
 
 [👉🏾👉🏾👉🏾 your answer here]
+Rob - I'm proud of the fact that we were able to get our main feature done.
 
 ### 4. Reflecting on your web development journey so far, how have you grown since the beginning of the course?
 
 [👉🏾👉🏾👉🏾 your answer here]
+Rob - I've learned a lot about backend development and how to connect the backend to the frontend.
 
 ### 5. Looking ahead, what are your goals related to web development, and what steps do you plan to take to achieve them?
 
 [👉🏾👉🏾👉🏾 your answer here]
+Rob - Learn as much as I can.
+
